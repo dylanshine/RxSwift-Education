@@ -84,6 +84,7 @@ This is a list of articles & tutorials I've read/watched about [RxSwift](https:/
 * [Beyond MVC: how to use MVVM in iOS](https://stfalcon.com/en/blog/post/beyond-mvc-how-to-use-MVVM-in-iOS)
 * [Model-View-ViewModel and Swift](https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/)
 * [ViewModel in RxSwift world](https://medium.com/@SergDort/viewmodel-in-rxswift-world-13d39faa2cf5#.ot9lyl5n9)
+* [MVVM in Swift](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
 
 #### Testing
 * [Unit Testing with RxSwift](http://www.pangers.com/blog/2016/3/1/unit-testing-with-rxswift)
