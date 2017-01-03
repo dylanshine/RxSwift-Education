@@ -79,6 +79,7 @@ This is a list of articles & tutorials I've read/watched about [RxSwift](https:/
 * [RxSwift UIKit Examples](https://gist.github.com/KentarouKanno/2feb5fd162cd0b66e26ed883ebccf6fe)
 
 #### MVVM
+* [MVVM with RxSwift](https://realm.io/news/slug-max-alexander-mvvm-rxswift/)
 * [Pure Swift MVVM](https://www.mobiledefense.com/blog/2016/02/07/pure-swift-mvvm/)
 * [Beyond MVC: how to use MVVM in iOS](https://stfalcon.com/en/blog/post/beyond-mvc-how-to-use-MVVM-in-iOS)
 * [Model-View-ViewModel and Swift](https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/)
@@ -108,6 +109,10 @@ This is a list of articles & tutorials I've read/watched about [RxSwift](https:/
 * [RxSwift Action](http://www.sm-cloud.com/rxswift-action/)
 * [Learning RxSwift’s Github Sample](http://zh-wang.github.io/blog/2015/10/27/learning-rxswifts-github-sample/)
 * [FRP iOS Learning Resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
+
+#### Moya
+* [Moya](https://github.com/Moya/Moya)
+* [Getting Started with Moya](http://marginalfutility.net/2015/10/04/moya/)
 
 #### Examples
 * [RxTodo](https://github.com/devxoul/RxTodo)
