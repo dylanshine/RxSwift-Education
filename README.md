@@ -110,6 +110,7 @@ This is a list of articles & tutorials I've read/watched about [RxSwift](https:/
 * [RxSwift Action](http://www.sm-cloud.com/rxswift-action/)
 * [Learning RxSwift’s Github Sample](http://zh-wang.github.io/blog/2015/10/27/learning-rxswifts-github-sample/)
 * [FRP iOS Learning Resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
+* [RxSwift — Migrate Delegates to BEAUTIFUL Observables](https://medium.com/@maxofeden/rxswift-migrate-delegates-to-beautiful-observables-3e606a863048#.f9g3kkmg5)
 
 #### Moya
 * [Moya](https://github.com/Moya/Moya)
