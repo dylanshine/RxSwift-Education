@@ -70,6 +70,7 @@ This is a list of articles & tutorials I've read/watched about [RxSwift](https:/
 	* [Make UITableView more Reactive with RxSwift](http://yannickloriot.com/2016/01/make-uitableview-reactive-with-rxswift/)
 	* [Loading items with pagination and activity indicator](https://alttab.co/blog/2016/06/21/loading-items-with-pagination-and-activity-indicator-using-rxswift/)
 	* [Implement a UITableView in RxSwift](http://blog.patrickbalestra.com/post/139058887796/implement-a-uitableview-in-rxswift)
+	* [Complex table view state changes made automatically](https://medium.com/@charlag/complex-table-view-state-changes-made-automatically-99096ad0672b#.i8zhxgtlv)
 * [Presenting Asynchronous Content with RxSwift](http://www.thomasvisser.me/2016/08/03/rxswift-loading/)
 * [RxSwift UIKit Examples](https://gist.github.com/KentarouKanno/2feb5fd162cd0b66e26ed883ebccf6fe)
 
