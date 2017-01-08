@@ -2,7 +2,7 @@
  
 ### RxSwift
 
-This is a list of articles & tutorials I've read/watched about [RxSwift](https://github.com/ReactiveX/RxSwift). [RxSwift](https://github.com/ReactiveX/RxSwift) also has their own [Slack](http://rxswift-slack.herokuapp.com/) channel where you can ask questions and interact with fellow RxSwift developers. I hope you find this resource helpful!  
+This is a list of articles & tutorials I've read/watched about [RxSwift](https://github.com/ReactiveX/RxSwift) and MVVM. [RxSwift](https://github.com/ReactiveX/RxSwift) also has their own [Slack](http://rxswift-slack.herokuapp.com/) channel where you can ask questions and interact with fellow RxSwift developers. I hope you find this resource helpful!  
 
 
 #### A practical MVVM example in Swift
@@ -85,6 +85,7 @@ This is a list of articles & tutorials I've read/watched about [RxSwift](https:/
 * [Model-View-ViewModel and Swift](https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/)
 * [ViewModel in RxSwift world](https://medium.com/@SergDort/viewmodel-in-rxswift-world-13d39faa2cf5#.ot9lyl5n9)
 * [MVVM in Swift](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
+* [A Different Take on MVVM with Swift](http://rasic.info/a-different-take-on-mvvm-with-swift/)
 
 #### Testing
 * [Unit Testing with RxSwift](http://www.pangers.com/blog/2016/3/1/unit-testing-with-rxswift)
