@@ -124,3 +124,4 @@ This is a list of articles & tutorials I've read/watched about [RxSwift](https:/
 * [ReactiveWeather](https://github.com/marinbenc/ReactiveWeatherExample)
 * [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles)
 * [CountIt](https://github.com/PiXeL16/CountItApp)
+* [RxPagination](https://github.com/tryswift/RxPagination)
