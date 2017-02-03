@@ -115,6 +115,7 @@ This is a list of articles & tutorials I've read/watched about [RxSwift](https:/
 #### Moya
 * [Moya](https://github.com/Moya/Moya)
 * [Getting Started with Moya](http://marginalfutility.net/2015/10/04/moya/)
+* [Google Places API with Reactive Swift and Moya](https://medium.com/cocoaacademymag/google-places-api-with-rxswift-rxcocoa-and-moya-ed5832fe7387#.tl2olwwfq)
 
 #### Examples
 * [RxTodo](https://github.com/devxoul/RxTodo)
