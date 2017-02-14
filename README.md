@@ -61,6 +61,8 @@ This is a list of articles & tutorials I've read/watched about [RxSwift](https:/
 * FRP with RxSwift examples
 	* [#1](https://medium.com/@tuyenbq/frp-with-rxswift-examples-1-3359aac3c60c#.3n7tdd58q)
 	* [#2](https://medium.com/@tuyenbq/frp-with-rxswift-examples-2-7e4bb5e3fc0e#.cbktf9m6n)
+* [victorqi RxSwift GitBook])(https://www.gitbook.com/book/victorqi/rxswift/details)
+
 
 #### Subjects
 * [RxSwift Subject Types](http://www.tailec.com/blog/understanding-publish-connect-refcount-share)
